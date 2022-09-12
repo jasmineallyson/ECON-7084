@@ -1,2 +1,2 @@
 # ECON-7084
-Labor Economis II, Fall 2022
+Labor Economics II, Fall 2022
